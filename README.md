@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liswktjs
+- 👋 Hi, I’m LEE JA SUN @liswktjs
 <!--- 👀 I’m interested in ... -->
 - 🌱 I’m currently learning HTML, CSS, JS, React.js, Python
 <!--- 💞️ I’m looking to collaborate on ...
