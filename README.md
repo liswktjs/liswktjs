@@ -1,6 +1,7 @@
 - 👋 Hi, I’m LEE JA SUN @liswktjs
 <!--- 👀 I’m interested in ... -->
 - 🌱 I’m currently learning HTML, CSS, Sass, JS, React, Python
+- 🎓 INHA UNIV I hava a degree in 📚Philosophy and 💻Computer Science
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
