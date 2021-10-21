@@ -1,7 +1,29 @@
-- 👋 Hi, I’m LEE JA SUN @liswktjs
-<!--- 👀 I’m interested in ... -->
+## Introduce Myself
+- 👋 Hi, I’m LEE JA SUN  @liswktjs
+<!--- 👀 I’m interested in web -->
 - 🌱 I’m currently learning HTML, CSS, Sass, JS, React, Python
-- 🎓 INHA UNIV I hava a degree in 📚Philosophy and 💻Computer Science
+- 🎓 INHA UNIV I have a degree in 📚Philosophy and 💻Computer Science
+
+## Project List
+
+<h3>Toy Project</h3> 
+
+* Week Planner 
+
+<h3>Clone Coding Project</h3>
+
+* Github_clone-page 
+* twiiter_clone
+* tomorrowHouse
+* movie_app_2020 
+
+<h3>Team Project</h3>
+
+* MovieNavigator
+
+<h3>Skill Practice</h3>
+
+* JS_EX
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
