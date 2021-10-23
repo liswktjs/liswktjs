@@ -24,6 +24,8 @@
 <h3>Personal Practice</h3>
 
 * JS_EX
+* coding_study
+* CS_study
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
