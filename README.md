@@ -21,7 +21,7 @@
 
 * MovieNavigator
 
-<h3>Skill Practice</h3>
+<h3>Personal Practice</h3>
 
 * JS_EX
 <!--- 💞️ I’m looking to collaborate on ...
