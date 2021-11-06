@@ -23,10 +23,11 @@
 
 <h3>Personal Practice</h3>
 
-* JS_EX
-* coding_study
-* CS_study
-* MenuApp
+* JS_EX (자바스크립트 스킬)
+* coding_study (코딩테스트 대비)
+* CS_study (컴퓨터공학 전공 공부)
+* MenuApp (js 서버와의 연동)
+* local-server-project (node.js)
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
