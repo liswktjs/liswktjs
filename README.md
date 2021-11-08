@@ -28,6 +28,7 @@
 * CS_study (컴퓨터공학 전공 공부)
 * MenuApp (js 서버와의 연동)
 * local-server-project (node.js)
+* react-practice (react)
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
